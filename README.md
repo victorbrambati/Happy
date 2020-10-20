@@ -39,7 +39,9 @@ O Happy é uma aplicação que conecta pessoas à casas de acolhimento instituci
 
 Localização por ip, pode se acrescentar a localização nativa do navegador se quiser ser mais preciso, mas precisa de permissão do usuário. Consumindo a api do [Ipstack](https://ipstack.com/).
 
+<p align="center">
 <img alt="Happy" title="Happy" src=".github/location.gif" />
+</p>
 
 Feito com ♥ by Victor Brambati
 
